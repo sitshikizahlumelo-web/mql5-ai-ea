@@ -1,0 +1,11 @@
+# MetaTrader generated files
+*.ex5
+*.ex4
+*.log
+*.dat
+
+# Local/editor files
+.vscode/
+.idea/
+*.suo
+*.user
